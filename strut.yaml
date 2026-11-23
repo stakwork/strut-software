@@ -1,6 +1,6 @@
 package: stadeum/software
-version: 0.1.0
-description: A team's code on its box. Its repositories, known to the box and kept up to date, GitHub for the people who work on them, and a machine of its own for every coding job.
+version: 0.1.1
+description: "Everything for coding with agents: GitHub, your repos, and a cloud machine for each job."
 bundle:
   - git+https://github.com/stakwork/strut-github@stable
   - git+https://github.com/stakwork/strut-pods@main
